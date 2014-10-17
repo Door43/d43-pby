@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pby:home|Door43 (pby)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pby|d43-pby repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pby/archive/master.zip|d43-pby.zip]]
+
+**Recent Changes**
+{{changes>ns = pby}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pby|Ethnologue data]]
+
